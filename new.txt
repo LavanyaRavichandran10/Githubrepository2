@@ -1,1 +1,0 @@
-new.txt file is created from new branch in git hub the name is called gitbranch1.
